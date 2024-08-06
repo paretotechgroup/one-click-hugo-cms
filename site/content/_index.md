@@ -1,20 +1,46 @@
 ---
 title: LED Retrofits in British Columbia
-subtitle: As a crucial p a r t o f t h e BC Hydro Power Smart Alliance Member,
-  LTS Canada excels i n LED retrofitt project
+subtitle: As a crucial part of the BC Hydro Power Smart Alliance Member, LTS
+  Canada excels in LED retrofit projects
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Pareto Tech & Luma Tech Solutions?
+  text: Pareto Technology Group has partnered with Luma Tech Solutions to help
+    commercial properties in BC retrofit their lighting retrofits and help
+    companies maximize the BC Hydro Incentive Program to its fullest extent.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: |-
+    • Establish Goals and Expectations:
+    We initiate each project with an in-depth conversation with
+    you to understand your vision, goals, and expectations for
+    the lighting upgrade.
+
+    • Confirm BC Hydro Incentive Program Eligibility:
+    Well help you determine your eligibility for BC Hydro's
+    incentive program, ensuring you benefit from all available
+    opportunities.
+
+    • Schedule On-Site Audits:
+    Our expert team will conduct a comprehensive on-site
+    lighting audit, collecting all relevant data to create a
+    detailed overview of your current lighting status.
+
+    • Data Review and Proposal Development:
+    Well carefully analyze the collected data and develop a
+    full-scale business case proposal for your lighting upgrade.
+    This proposal will include product recommendations
+    tailored to your specific needs and goals.
+
+    • Procurement and Scheduling:
+    Once the proposal is approved, we proceed with product
+    procurement and schedule the project, coordinating
+    closely with our preferred electrical contractor.
+
+    • Project Completion and BC Hydro Paperwork:
+    Upon project completion, we handle all necessary
+    paperwork with BC Hydro, ensuring a smooth, hassle-free
+    closure of the project.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
